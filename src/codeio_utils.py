@@ -30,7 +30,7 @@ Given the following input:
 
 <<<<input>>>>
 
-Can you predict the output without writing any code? Please reason and put your final answer in the following json format: {"output": <your output>}, where <your output> should strictly match the the output requirement as specified."""
+Can you predict the output without writing any code? Please reason and put your final answer in the following json format: {"output": <your output>}, where <your output> should strictly match the output requirement as specified."""
 
 input_pred_template = """You are given a question that requires some input and output variables as follows:
 
